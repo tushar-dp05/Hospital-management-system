@@ -1,0 +1,2 @@
+{name},{age},{condition}
+tushar,19,jai bhim
